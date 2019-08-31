@@ -1,4 +1,4 @@
-# sukesh
+# coffee-shop
 The coffee shop that you use often has a service that is limited today.
 
 - When purchasing coffee, the price for the next purchase will be P% off.
